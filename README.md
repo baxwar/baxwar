@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
+- [Papyrus Networks Live Stream](https://www.youtube.com/watch?v=CElCbG8ga9E)
+- [Working on baxbot](https://www.youtube.com/watch?v=pqHUuVUF7G8)
+- [Test](https://www.youtube.com/watch?v=bbRzMtIg7dM)
+- [Hearts of iron 4 : KaiserRedux](https://www.youtube.com/watch?v=o4wNDuGgl4I)
+- [Burning spike at the stake](https://www.youtube.com/watch?v=G6e_SmVefoQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
